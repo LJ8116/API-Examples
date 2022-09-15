@@ -20,6 +20,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Use bluetooth to discover, connect to, and share information with nearby devices</string>
 	<key>NSCameraUsageDescription</key>
 	<string>App needs your permission to access camera for video interaction</string>
 	<key>NSMicrophoneUsageDescription</key>
